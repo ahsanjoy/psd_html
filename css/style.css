@@ -58,7 +58,7 @@ header{
 	display: block;
 	color: #626262;
 	transition: .5s;
-	padding: 0 60px;
+	padding: 23px 50px 25px;
 }
 .menu ul li:last-child a{
 	padding-right: 0;
